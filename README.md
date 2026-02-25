@@ -15,7 +15,7 @@ Dados: Modelagem de Banco de Dados e PostgreSQL.
 Ferramentas: Git e GitHub.
 
 📫 Contato
-LinkedIn: https://www.linkedin.com/in/fernando-carvalho-028386393/
+LinkedIn: https://www.linkedin.com/in/FHC-
 
 
 E-mail: fernandofix11@gmail.com
